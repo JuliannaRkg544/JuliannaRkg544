@@ -8,7 +8,7 @@
   
 ## Welcome to my profile✨
   - 📚  I'm a Computer Science student at Universidade Estadual do Norte Fluminense
-  - 🌱 Currently studying to become a full stack developer
+  - 🌱 Currently studying at Driven Education to become a full stack developer
   
   
  
