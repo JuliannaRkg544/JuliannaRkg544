@@ -33,7 +33,7 @@ I'm fullstack web development student, who seeks to become a better profissional
   
 ## Somethings about me
   - 📚  I'm a undergradute Computer Science student at Universidade Estadual do Norte Fluminense
-  - 🌱  Currently studying software engeneering at Driven Education
+  - 🌱  Currently studying about AI's
   - 🎯  Working abroad is one of my life's goal
   
   
